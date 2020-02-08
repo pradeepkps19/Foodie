@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+#### LoginPage
+
+![image](https://user-images.githubusercontent.com/36665975/74084587-88ddab80-4a96-11ea-8864-14c814095991.png)
+
+Username: kishan
+
+Password: kishan123
+
+#### HotelsPage
+
+![image](https://user-images.githubusercontent.com/36665975/74084613-b62a5980-4a96-11ea-99d5-2fb41f274180.png)
+
+#### OrderPage
+
+![image](https://user-images.githubusercontent.com/36665975/74084624-d8bc7280-4a96-11ea-992f-c254265c3815.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
